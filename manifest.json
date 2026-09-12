@@ -1,13 +1,13 @@
 {
-  "name": "神姫バス時刻表（非公式）",
-  "short_name": "神姫バス時刻表",
-  "description": "神姫バスの停留所と時刻表を調べる非公式・非商用のサイト",
+  "name": "神姫バス 案内（非公式）",
+  "short_name": "神姫バス 案内",
+  "description": "神姫バスの経路と時刻表を調べる非公式・非商用のサイト",
   "start_url": ".",
   "id": ".",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#f2f5f7",
-  "theme_color": "#086db0",
+  "background_color": "#f5f1ed",
+  "theme_color": "#d3a081",
   "icons": [
     {
       "src": "icon-192x192.jpg",
